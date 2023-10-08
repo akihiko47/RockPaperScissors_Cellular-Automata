@@ -1,0 +1,10 @@
+draw - mouse
+change pen color - 1 / 2 / 3
+
+start - space
+
+color scheme - left arrow / right arrow
+intensity - up arrow / down arrow
+max FPS - minus / plus
+
+restart - escape
